@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch _01_Hollow_Rectangle_Patterns",
+            "request": "launch",
+            "mainClass": "_01_Hollow_Rectangle_Patterns",
+            "projectName": "_12_Patterns_Part_2_Advance_328fd79f"
+        },
+        {
+            "type": "java",
+            "name": "Launch _03_Inverted_and_Rotated_Half_Pyramid",
+            "request": "launch",
+            "mainClass": "_03_Inverted_and_Rotated_Half_Pyramid",
+            "projectName": "_12_Patterns_Part_2_Advance_328fd79f"
+        },
+        {
+            "type": "java",
+            "name": "Launch _04_Inverted_Half_Pyramid_with_Number",
+            "request": "launch",
+            "mainClass": "_04_Inverted_Half_Pyramid_with_Number",
+            "projectName": "_12_Patterns_Part_2_Advance_328fd79f"
+        },
+        {
+            "type": "java",
+            "name": "Launch _05_FLOYD_Triangle",
+            "request": "launch",
+            "mainClass": "_05_FLOYD_Triangle",
+            "projectName": "_12_Patterns_Part_2_Advance_328fd79f"
+        },
+        {
+            "type": "java",
+            "name": "Launch _06_Triangle_0_1",
+            "request": "launch",
+            "mainClass": "_06_Triangle_0_1",
+            "projectName": "_12_Patterns_Part_2_Advance_328fd79f"
+        },
+        {
+            "type": "java",
+            "name": "Launch _07_Butterfly_Pattern",
+            "request": "launch",
+            "mainClass": "_07_Butterfly_Pattern",
+            "projectName": "_12_Patterns_Part_2_Advance_328fd79f"
+        },
+        {
+            "type": "java",
+            "name": "Launch _09_Solid_Rhombus_Pattern",
+            "request": "launch",
+            "mainClass": "_09_Solid_Rhombus_Pattern",
+            "projectName": "_12_Patterns_Part_2_Advance_328fd79f"
+        },
+        {
+            "type": "java",
+            "name": "Launch _10_Hollow_Rhombus_Pattern",
+            "request": "launch",
+            "mainClass": "_10_Hollow_Rhombus_Pattern",
+            "projectName": "_12_Patterns_Part_2_Advance_328fd79f"
+        },
+        {
+            "type": "java",
+            "name": "Launch _11_Diamond_Pattern",
+            "request": "launch",
+            "mainClass": "_11_Diamond_Pattern",
+            "projectName": "_12_Patterns_Part_2_Advance_328fd79f"
+        },
+        {
+            "type": "java",
+            "name": "Launch _12_Extra_Pattern_Question",
+            "request": "launch",
+            "mainClass": "_12_Extra_Pattern_Question",
+            "projectName": "_12_Patterns_Part_2_Advance_328fd79f"
+        }
+    ]
+}
